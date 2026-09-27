@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- moli: a black ink-drop blob with one big eye, on two stick legs; white sticker edge -->
+  <g stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="#fff">
+    <path d="M32 5C47 5 56 14 56 28C56 41 47 48 32 48C17 48 8 41 8 28C8 14 17 5 32 5Z"/>
+    <path d="M25 47V58M39 47V58"/>
+  </g>
+  <path d="M25 46V58M39 46V58" stroke="#141414" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M32 5C47 5 56 14 56 28C56 41 47 48 32 48C17 48 8 41 8 28C8 14 17 5 32 5Z" fill="#141414"/>
+  <circle cx="32" cy="26" r="11.5" fill="#fff"/>
+  <circle cx="32" cy="26" r="7.5" fill="#141414"/>
+  <circle cx="35" cy="22.5" r="2.2" fill="#fff"/>
+</svg>
