@@ -14,12 +14,13 @@
 - **小猫与扫地机**：点点小猫会喵喵叫，扫地机器人会在房间里巡逻。
 - **电视 4 合 1 游戏机**：超级茉莉、魂斗茉莉、茉莉方块、茉莉马戏团，键盘 / 触屏可玩。
 - **环境音混音台**：风、雨、雪、鸟鸣、虫鸣、蛙声、雷声、风铃，跟随真实天气或像白噪音 App 一样手动开关；另有收音机电台。
+- **Aura 联动彩蛋**：南闲的桌面 AI 伙伴 Aura 会以全息投影的形式来房间串门。
 - **中文 / English** 双语界面，手机与电脑均可访问。
 - **纯前端**：three.js r128 + 原生 JS，无构建步骤，任意静态服务器即可运行。
 
 | | |
 |---|---|
-| ![night](docs/night.jpg) | ![rain](docs/rain.jpg) |
+| ![night](docs/night.jpg) | ![aura](docs/aura.jpg) |
 | ![snow](docs/snow.jpg) | ![mario](docs/mario.jpg) |
 | ![cat](docs/cat.jpg) | ![circus](docs/circus.jpg) |
 
