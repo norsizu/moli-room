@@ -8,9 +8,9 @@
 
 ## Promo video
 
-[![Moli's Room promo video](docs/promo.jpg)](docs/promo-en.mp4)
+https://github.com/user-attachments/assets/8b6bfa22-04d7-419c-aa59-ab8f42c1c0ca
 
-Click the poster to watch (about 100 s, Mandarin voice-over with English subtitles).
+About 100 s, Mandarin voice-over with English subtitles. Can't play it? [Download the mp4](docs/promo-en.mp4)
 
 ## Features
 

@@ -8,9 +8,9 @@
 
 ## 宣传视频
 
-[![茉莉的小房间 宣传视频](docs/promo.jpg)](docs/promo-en.mp4)
+https://github.com/user-attachments/assets/8b6bfa22-04d7-419c-aa59-ab8f42c1c0ca
 
-点击封面观看（约 100 秒，普通话配音 + 英文字幕）。
+约 100 秒，普通话配音 + 英文字幕。播放不了？[下载 mp4](docs/promo-en.mp4)
 
 ## 功能
 
