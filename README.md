@@ -55,6 +55,8 @@ python3 -m http.server 8080   # 然后打开 http://localhost:8080
 
 ## 社区
 
+开源推广与交流链接：[LINUX DO](https://linux.do/)。
+
 欢迎交流玩法、Bug 反馈与二创。扫码加入「闲话 AI | Aura」QQ 群：`951895791`。
 
 <p align="center"><img src="docs/community/qq-group.jpg" width="250" alt="闲话 AI | Aura QQ 群 951895791"></p>

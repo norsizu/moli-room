@@ -55,6 +55,8 @@ MOLI (茉莉) is MOLINK's mascot. This repo is a small fan-made web project abou
 
 ## Community
 
+Open-source promotion and community link: [LINUX DO](https://linux.do/).
+
 Come chat about the room, report bugs or share your remixes. Scan the code to join the "闲话 AI | Aura" QQ group: `951895791`.
 
 <p align="center"><img src="docs/community/qq-group.jpg" width="250" alt="闲话 AI | Aura QQ group 951895791"></p>
